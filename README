@@ -5,6 +5,7 @@ The program will figure out the change and the number of quarters, dimes, nickel
 Find max combination of 2 numbers in a sequence - n^2
 
 Reverse a string
+Enter a string and the program will reverse it and print it out.
 
 Find Cost of Tile to Cover W x H Floor
 Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
@@ -18,3 +19,9 @@ Takes in a credit card number from a common credit card vendor (Visa, MasterCard
 Collatz Conjecture
 Start with a number n > 1.
 Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
+
+Coin Flip Simulation
+Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+
+Count Words in a String
+Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary. 
