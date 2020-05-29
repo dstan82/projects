@@ -1,0 +1,20 @@
+Change Return Program
+The user enters a cost and then the amount of money given.
+The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+
+Find max combination of 2 numbers in a sequence - n^2
+
+Reverse a string
+
+Find Cost of Tile to Cover W x H Floor
+Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+
+Fizz Buzz
+Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+Credit Card Validator
+Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+
+Collatz Conjecture
+Start with a number n > 1.
+Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
