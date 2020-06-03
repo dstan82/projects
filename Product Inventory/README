@@ -1,0 +1,5 @@
+Product Inventory Project
+Application which manages an inventory of products.
+Application reads a list of products from an .xlsx file that contain (ID, Name, Price, Quantity)
+Then creates an inventory .xlsx file with a summary report (total no. of products per unique ID, total value per product,
+and total value per whole inventory)
